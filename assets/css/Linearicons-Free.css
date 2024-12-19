@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'Linearicons-Free';
+	src: url(../../assets/fonts/Linearicons-Free-8d3a66069c7a3141f7fffafcc15a75e2.eot?w118d=) format('embedded-opentype'),
+	url(../../assets/fonts/Linearicons-Free-8d3a66069c7a3141f7fffafcc15a75e2.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Linearicons-Free-2a46d9454dd701a7f32b7334f0dfedb1.woff2?w118d=) format('woff2'),
+	url(../../assets/fonts/Linearicons-Free-540def72c3ada631f7a302ab1e59d24d.woff?w118d=) format('woff'),
+	url(../../assets/fonts/Linearicons-Free-9cc50f5c7c3030358397195df6eadd56.ttf?w118d=) format('truetype'),
+	url(../../assets/fonts/Linearicons-Free-214f19e4fe29d5a6bcf101b248cab93e.svg?w118d=) format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: auto;
+}
